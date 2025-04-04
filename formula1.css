@@ -30,6 +30,11 @@ h2{
     color: rgb(251, 251, 255);
     width: 150px;
 }
-.pilotoequipe h2{
-font-family:'Courier New', Courier, monospace;
+
+body{
+    background-image: url('file:///C:/Users/Caio%20Guilherme/Downloads/Design%20sem%20nome.png');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
 }
