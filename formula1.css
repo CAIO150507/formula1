@@ -8,11 +8,11 @@ header{
   
 }
 header img{
-    height: 30px;
+    height: 30px;   
 }
 .tabelaf1 {
-     border: 5px;
-     border-width: 5px;
+     border: 3px;
+     border-width: 3px;
      border-style: solid;
      border-color:  rgb(216, 174, 174);
      background-color: white;
@@ -27,24 +27,99 @@ header img{
 .logo-fia{
     font-size: 30px;
 }
-h2{
-    font-size: 22px;
-    margin: 22px;
-}
 .tabelaf1 th{
     text-align: center;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(210, 41, 41);
     border-collapse: collapse;
     color: rgb(255, 255, 255);
     width: 150px;
 }
 
 body{
-    background-image: url(https://motorshow.com.br/wp-content/uploads/sites/2/2024/02/ggnm3mdw8aa5rd1-scaled.jpg?x71212);
+    background-image: url(https://media.formula1.com/image/upload/t_16by9Centre/f_auto/q_auto/v1707821717/fom-website/2023/Miscellaneous/ferrari-sf-24-5.png.transform/9col/image.png);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center center;
 }
+.GP{
+    border: 3px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(216, 174, 174);
+    background-color: white;
+    display: inline-block;
+    
 
+}
+.GP th{
+    text-align: center;
+    background-color: rgb(210, 41, 41);
+    border-collapse: collapse;
+    color: white;
+    width: 130px;
+    align-items: center;
+}
+.GP td{
+    text-align: center;
+}
+h2{
+    background-color: rgb(210, 41, 41);
+    border: 9px;
+    font-size: 22px;
+    margin: 20px;
+    width: 180px;
+}
 
+.parceriaformula1{
+    width: 100%;
+    border: 0;
+}
+
+.ptspiloto{
+    border: 3px;
+    border-width: 3px;
+    border-style: solid;
+    border-color:  rgb(216, 174, 174);
+    background-color: white;
+    display: inline-block;
+    
+}
+
+.ptspiloto th{
+    background-color: rgb(210, 41, 41);
+    border-collapse: collapse;
+    color: white;
+    width: 150px;
+}
+
+.ptspiloto td{
+    text-align: center;
+}
+
+.spe{
+    border: 3px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(216, 174, 174);
+    background-color: white;
+    display: inline-block;
+    text-align: center;
+    
+}
+.spe th{
+    text-align: center;
+    background-color: rgb(210, 41, 41);
+    border-collapse: collapse;
+    color: white;
+    width: 230px;
+    align-items: center;
+}
+
+.pontos{
+    text-align: start;
+}
+.logodasmarcas{
+    margin: 0 auto;
+    height: 80px;
+}
